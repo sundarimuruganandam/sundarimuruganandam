@@ -1,57 +1,81 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,12,20&text=SUNDARI%20M&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20STUDENT&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Sundari M profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0B1026,40:4338CA,75:7C3AED,100:06B6D4&text=SUNDARI%20M&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=ARTIFICIAL%20INTELLIGENCE%20%26%20DATA%20SCIENCE&descSize=15&descAlignY=62&stroke=8B5CF6&strokeWidth=1" alt="Sundari M — AI and Data Science"/>
 
 <br/>
 
-### ✨ Turning Data into Insights | Building Ideas into Impact
-
 <a href="https://github.com/sundarimuruganandam">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-7C3AED?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0891B2?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/SQL-0891B2?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Data%20%26%20AI-7C3AED?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data and AI"/>
+
+<br/><br/>
+
+**Curious Mind. Data-Driven Thinking. Continuous Growth.**
+
+[About](#-about-me) · [Skills](#-technology-stack) · [Projects](#-featured-projects) · [GitHub](#-github-analytics)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👋 About Me
 
-Hi! I'm **Sundari M**, a final-year B.Tech Artificial Intelligence and Data Science student at SRM Madurai College for Engineering and Technology.
+Hello! I'm **Sundari M**, a final-year B.Tech student specializing in Artificial Intelligence and Data Science at SRM Madurai College for Engineering and Technology.
 
-I'm passionate about exploring data, learning intelligent technologies, and building practical solutions through programming and analytics.
+I'm interested in turning data into useful insights and exploring how AI and machine learning can solve practical problems. I enjoy learning through hands-on projects, experimenting with tools, and strengthening my technical foundations.
 
-- 🎓 Artificial Intelligence and Data Science
-- 🐍 Python programming and SQL
-- 📊 Data analysis and visualization
-- 🤖 Machine learning fundamentals
-- 🌱 Learning, building, and improving every day
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**🎓 Education**
 
-## 🧰 My Tech Stack
+B.Tech — Artificial Intelligence and Data Science
+
+**💻 Core Interests**
+
+- Data Analytics
+- Python Programming
+- Machine Learning
+- AI Applications
+
+</td>
+<td width="50%" valign="top">
+
+**🎯 My Direction**
+
+Develop strong programming and analytical skills while building useful, practical projects.
+
+**🌱 My Mindset**
+
+Learn consistently. Experiment thoughtfully. Improve with every project.
+
+</td>
+</tr>
+</table>
+
+## 🧩 Technology Stack
 
 <div align="center">
 
-### Programming & Development
+**Programming & Development**
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" alt="Programming and development tools"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&perline=5" alt="Python, MySQL, Git, GitHub and VS Code"/>
 
-### Data & Machine Learning
+**Data Analysis & Machine Learning**
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
 
 </div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -59,73 +83,85 @@ I'm passionate about exploring data, learning intelligent technologies, and buil
 <tr>
 <td width="50%" valign="top">
 
-<h3> ✦ SkillUp AI </h3>
+<h3>✦ SkillUp AI</h3>
 
 **AI-Powered Career Intelligence**
 
-A career guidance project that compares a user's current skills with the requirements of a target job role and identifies skills to develop.
+A career guidance application designed to compare existing skills against the requirements of a selected job role and identify areas for further learning.
 
-**Tech Stack**
+**Built with**
 
 `Python` `Streamlit` `Pandas` `Scikit-learn`
+
+**Focus areas**
+- Skill gap identification
+- Career role comparison
+- Learning recommendations
 
 </td>
 <td width="50%" valign="top">
 
-<h3> ✦ Adaptive Clinical-Aware OPTNet </h3>
+<h3>✦ Adaptive Clinical-Aware OPTNet</h3>
 
-**Retinal Image Enhancement Research**
+**Region-Specific Retinal Image Enhancement**
 
-An academic research project focused on region-specific retinal fundus image enhancement with diagnostic feedback optimization.
+An academic research project exploring retinal fundus image enhancement using region-specific processing and diagnostic feedback optimization.
 
-**Tech Stack**
+**Technologies explored**
 
 `Python` `Deep Learning` `OpenCV` `NumPy`
+
+**Focus areas**
+- Retinal image preprocessing
+- Region-aware enhancement
+- Diagnostic feedback research
 
 </td>
 </tr>
 </table>
 
----
-
-## 📊 GitHub Dashboard
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sundarimuruganandam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundarimuruganandam&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=sundarimuruganandam&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<a href="https://github.com/sundarimuruganandam?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW%20MY%20REPOSITORIES-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
+</a>
 
 </div>
 
----
+## 📊 GitHub Analytics
 
-## 🌱 Currently Learning
+<div align="center">
 
-- Python problem-solving
-- SQL and database querying
-- Data analysis and visualization
-- Machine learning fundamentals
-- Git and GitHub workflow
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sundarimuruganandam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics"/>
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundarimuruganandam&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages"/>
 
-## 🤝 Let's Connect
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=sundarimuruganandam&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+## 🌱 What I'm Working On
+
+- Improving Python programming and problem-solving
+- Strengthening SQL and database skills
+- Practising data analysis and visualization
+- Learning machine learning fundamentals
+- Building and documenting practical projects
+
+## 🤝 Connect & Explore
 
 <div align="center">
 
 <a href="https://github.com/sundarimuruganandam">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories"/>
+  <img src="https://img.shields.io/badge/GitHub-sundarimuruganandam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 
 <br/><br/>
 
-*“Learn continuously. Build thoughtfully. Improve every day.”*
+*“Small steps every day. Meaningful progress over time.”*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=6,12,20" width="100%" alt="Profile footer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,40:7C3AED,100:0B1026" alt="Decorative gradient footer"/>
 
 </div>
